@@ -3,6 +3,19 @@ SIAT-3DFE: A High-Resolution 3D Facial Expression Dataset
 
 SIAT-3DFE-CG:https://github.com/CIESIAT/SIAT-3DFE-CG
 
+# Citation
+```
+@article{ye2020siat,
+  title={SIAT-3DFE: a high-resolution 3D facial expression dataset},
+  author={Ye, Yuping and Song, Zhan and Guo, Junguang and Qiao, Yu},
+  journal={IEEE Access},
+  volume={8},
+  pages={48205--48211},
+  year={2020},
+  publisher={IEEE}
+}
+```
+
 # Introduction
 In contrast with traditional low-resolution and low-accuracy 3D face related datasets, an accurate and dense facial expression database was introduced in this paper. During the period from January to June 2019, we have collected 8,000 3D facial expression models and 32,000 texture images from 500 subjects.
 
