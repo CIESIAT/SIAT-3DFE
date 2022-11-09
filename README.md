@@ -21,7 +21,7 @@ In contrast with traditional low-resolution and low-accuracy 3D face related dat
 
 # Obtaining the data
 
-We make all  data available for academic research purposes. However, as human face is very personal, we only send the data to approved researchers. To obtain a copy, please send an email to Corresponding author
+We make all  data available for academic research purposes. However, as human face is very personal, we only send the data to approved researchers. To obtain a copy, please send an email to Corresponding author (**zhan.song@siat.ac.cn**)
 
 (1) your name, title, affiliation (if you are a student, please ask your advisor to contact us)
 
