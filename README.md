@@ -15,6 +15,12 @@ SIAT-3DFE-CG:https://github.com/CIESIAT/SIAT-3DFE-CG
   publisher={IEEE}
 }
 ```
+#Update
+To protect privacy, we have anonymized the database and opened it for public use. For additional data such as textures, please reach out to us using the previous method.
+
+Link：https://pan.baidu.com/s/1_xXZ3HG9IMnmtN5cuH0o5g?pwd=caem 
+Extract Code：caem
+
 
 # Introduction
 In contrast with traditional low-resolution and low-accuracy 3D face related datasets, an accurate and dense facial expression database was introduced in this paper. During the period from January to June 2019, we have collected 8,000 3D facial expression models and 32,000 texture images from 500 subjects.
