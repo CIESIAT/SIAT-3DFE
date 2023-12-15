@@ -1,3 +1,10 @@
+# Update
+
+We have removed personal information from the database and made it open access. If you still need textures and other information, please contact us as before.
+
+Link：https://pan.baidu.com/s/1_xXZ3HG9IMnmtN5cuH0o5g?pwd=caem 
+Extract Code：caem
+
 # SIAT-3DFE
 SIAT-3DFE: A High-Resolution 3D Facial Expression Dataset
 
@@ -15,12 +22,7 @@ SIAT-3DFE-CG:https://github.com/CIESIAT/SIAT-3DFE-CG
   publisher={IEEE}
 }
 ```
-# Update
 
-We have removed personal information from the database and made it open access. If you still need textures and other information, please contact us as before.
-
-Link：https://pan.baidu.com/s/1_xXZ3HG9IMnmtN5cuH0o5g?pwd=caem 
-Extract Code：caem
 
 
 # Introduction
