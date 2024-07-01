@@ -21,6 +21,25 @@ SIAT-3DFE-CG:https://github.com/CIESIAT/SIAT-3DFE-CG
   year={2020},
   publisher={IEEE}
 }
+
+@article{ye2022high,
+  title={High-fidelity 3D real-time facial animation using infrared structured light sensing system},
+  author={Ye, Yuping and Song, Zhan and Zhao, Juan},
+  journal={Computers \& Graphics},
+  volume={104},
+  pages={46--58},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{ye2024retargeting,
+  title={Retargeting of facial model for unordered dense point cloud},
+  author={Ye, Yuping and Han, Juncheng and Liang, Jixin and Wu, Di and Song, Zhan},
+  journal={Computers \& Graphics},
+  pages={103972},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 
 
