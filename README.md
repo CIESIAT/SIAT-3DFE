@@ -10,6 +10,8 @@ SIAT-3DFE: A High-Resolution 3D Facial Expression Dataset
 
 SIAT-3DFE-CG:https://github.com/CIESIAT/SIAT-3DFE-CG
 
+FaceRetargeting：**https://github.com/confSmiPaper4/FacialRetargetingFrUnPC**
+
 # Citation
 ```
 @article{ye2020siat,
